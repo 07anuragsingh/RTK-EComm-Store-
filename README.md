@@ -15,8 +15,8 @@ A modern, fast, and scalable e-commerce storefront built with React + Vite, leve
 
 ## Demo
 
-![Demo preview](./assets/demo-placeholder.png)
-> Replace the image above with a GIF or screenshot of your app. Example: `./assets/demo.gif`
+![Demo preview](src/assets/demo-placeholder.png)
+
 
 Live demo: <!-- Add your deployed demo URL here -->
 
