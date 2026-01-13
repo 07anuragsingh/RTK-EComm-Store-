@@ -1,7 +1,7 @@
 import { useDispatch, useSelector } from 'react-redux'
 import './56ReduxProduct.css'
 import { addItem,removeItem } from '../app/cartSlice'
-import { useEffect } from 'react'
+import { useEffect} from 'react'
 import { fetchProducts } from '../app/productSlice'
 
 
